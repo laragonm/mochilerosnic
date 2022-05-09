@@ -1,0 +1,36 @@
+.banner {
+	background-image: url("../img/rivas.jpg");
+	background-repeat: no-repeat;
+	width: 2000px;
+	min-width: 25%;
+	max-width: 100%;
+}
+
+.banner-leon {
+	background-image: url("../img/leon2.png");
+	background-repeat: no-repeat;
+	width: 2000px;
+	min-width: 25%;
+	max-width: 100%;
+}
+
+.banner-matagalpa {
+	background-image: url("../img/matagalpa.jpg");
+	background-repeat: no-repeat;
+	width: 2000px;
+	min-width: 25%;
+	max-width: 100%;
+}
+
+.banner-granada {
+	background-image: url("../img/granada.png");
+	background-repeat: no-repeat;
+	width: 2000px;
+	min-width: 25%;
+	max-width: 100%;
+}
+
+.imagen-card {
+	width: 318px;
+	height: 180px;
+}
