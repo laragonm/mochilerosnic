@@ -7,7 +7,7 @@
 }
 
 .banner-leon {
-	background-image: url("../img/leon2.png");
+	background-image: url("../img/leon2.jpg");
 	background-repeat: no-repeat;
 	width: 2000px;
 	min-width: 25%;
@@ -23,7 +23,7 @@
 }
 
 .banner-granada {
-	background-image: url("../img/granada.png");
+	background-image: url("../img/granada.jpg");
 	background-repeat: no-repeat;
 	width: 2000px;
 	min-width: 25%;
